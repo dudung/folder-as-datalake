@@ -1,0 +1,12 @@
+﻿{
+  "creator": ["Nazla Innayah", "Alexander Iskandar"],
+  "date": "2024-05-25 20:00",
+  "origin": "Simulation Software, Magnetic Physics and Photonics Research Group, Physics Department, Institut Teknologi Bandung, Indonesia",
+  "editor": "Sparisoma Viridi",
+  "update": "2024-05-25 20:20",
+  "delimiter": "comma",
+  "column": ["lambda", "csa"],
+  "type": ["float", "float"],
+  "unit": ["nm", "unknown"],
+  "data": "1110012175.csv"
+}
