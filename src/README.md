@@ -1,2 +1,2 @@
 # src
-scripts, codes, parameters for folder-based datalake
+scripts, codes, params, settings for folder-based datalake
